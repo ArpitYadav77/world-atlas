@@ -1,4 +1,4 @@
-import countryFacts from "../api/countryData.json";
+import countryFacts from "../api/CountryData.json";
 
 export const About = () => {
   return (
@@ -11,12 +11,12 @@ export const About = () => {
 
       <div className="gradient-cards">
         {countryFacts.map((country) => {
-          const { id, countryName, capital, population, interestingFact } =
+          const { id, CountryName, capital, population, interestingFact } =
             country;
           return (
             <div className="card" key={id}>
               <div className="container-card bg-blue-box">
-                <p className="card-title">{countryName}</p>
+                <p className="card-title">{CountryName}</p>
                 <p>
                   <span className="card-description">Capital:</span>
                   {capital}
