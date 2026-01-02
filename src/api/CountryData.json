@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "CountryName": "India",
+    "capital": "New Delhi",
+    "population": "1.4 billion",
+    "interestingFact": "India is the world's largest democracy and has over 22 officially recognized languages."
+  },
+  {
+    "id": 2,
+    "CountryName": "Japan",
+    "capital": "Tokyo",
+    "population": "125 million",
+    "interestingFact": "Japan has more than 6,800 islands and one of the highest life expectancies in the world."
+  },
+  {
+    "id": 3,
+    "CountryName": "France",
+    "capital": "Paris",
+    "population": "65 million",
+    "interestingFact": "France is the most visited country in the world by tourists."
+  },
+  {
+    "id": 4,
+    "CountryName": "Brazil",
+    "capital": "Brasília",
+    "population": "216 million",
+    "interestingFact": "Brazil is home to the Amazon Rainforest, often called the lungs of the Earth."
+  },
+  {
+    "id": 5,
+    "CountryName": "Australia",
+    "capital": "Canberra",
+    "population": "26 million",
+    "interestingFact": "Australia has more kangaroos than humans."
+  },
+  {
+    "id": 6,
+    "CountryName": "Canada",
+    "capital": "Ottawa",
+    "population": "40 million",
+    "interestingFact": "Canada has the longest coastline in the world."
+  },
+  {
+    "id": 7,
+    "CountryName": "Germany",
+    "capital": "Berlin",
+    "population": "84 million",
+    "interestingFact": "Germany is known for having over 1,500 varieties of sausages."
+  },
+  {
+    "id": 8,
+    "CountryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": "333 million",
+    "interestingFact": "The United States has no official national language."
+  },
+  {
+    "id": 9,
+    "CountryName": "Italy",
+    "capital": "Rome",
+    "population": "59 million",
+    "interestingFact": "Italy has more UNESCO World Heritage Sites than any other country."
+  }
+ 
+]
